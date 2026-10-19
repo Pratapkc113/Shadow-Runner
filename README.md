@@ -358,7 +358,7 @@ Every mistake becomes part of the solution.
 
 1. Clone the repository
 
-git clone https://github.com/Pratapkc113/ShadowRunner.git
+git clone https://github.com/Pratapkc113/Shadow-Runner.git
 
 2. Open the project in Unreal Engine 5
 
