@@ -374,6 +374,10 @@ or
 text
 Platforms → Package Project → Windows
 
+or
+Try it on itch.io
+https://prazl.itch.io/shadow-runner
+
 ---
 
 # Author
